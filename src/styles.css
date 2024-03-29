@@ -3,6 +3,23 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+a {
+  color: rgb(95, 95, 239);
+}
+
+header {
+  border-bottom: 1px solid #d3e3fd;
+  padding: 0 0 30px 0;
+}
+
+footer {
+  border-top: 1px solid #d3e3fd;
+  padding: 30px 0 0 0;
+  text-align: center;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
 .container {
   background: #fff;
   max-width: 600px;
