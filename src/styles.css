@@ -1,0 +1,13 @@
+body {
+  background: #d3e3fd;
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  background: #fff;
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
